@@ -1,1 +1,1 @@
-export * from "./react.tsx"
+export { default } from "./react.tsx";

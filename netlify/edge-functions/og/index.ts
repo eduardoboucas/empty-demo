@@ -1,1 +1,1 @@
-export * from "./og.tsx"
+export { default } from "./og.tsx";
